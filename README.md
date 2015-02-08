@@ -9,3 +9,4 @@ Remember, you have 10 seconds before then timeout in order to select a source fe
 
 Resources used: 
 http://jasmine.github.io/edge/introduction.html
+http://api.jquery.com
